@@ -1,2 +1,2 @@
 # MyProjects
-My machine Learning, deep learning and BI projects
+Predicted LTUWBB performance using machine learning models on historical player statistics, focusing on feature importance and multicollinearity.
